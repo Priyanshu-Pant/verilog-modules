@@ -1,0 +1,41 @@
+$date
+	Fri Aug 15 23:51:41 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module latchtest $end
+$var wire 1 ! qbar $end
+$var wire 1 " q $end
+$var reg 1 # r $end
+$var reg 1 $ s $end
+$scope module LAT $end
+$var wire 1 " q $end
+$var wire 1 ! qbar $end
+$var wire 1 # r $end
+$var wire 1 $ s $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0$
+1#
+1"
+0!
+$end
+#10
+1$
+#30
+0$
+#40
+0"
+1!
+0#
+1$
